@@ -1,4 +1,4 @@
-# Cloudhosted To-do List Web App with MongoDB's Atlas <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40" height="40">
+# Cloudhosted To-do List Web App with MongoDB <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40" height="40">
 ![Capture](https://github.com/ghubnerr/practice-to-do-list-cloudhosted/assets/91924667/5ab7fa3c-2773-482b-83fd-5417297fe992)
 
 This is a simple to-do list application built using Node.js, Express, and MongoDB. It lets people create multiple to-do lists and manage tasks within each list. The application is hosted at https://sore-rose-antelope-vest.cyclic.app/.
